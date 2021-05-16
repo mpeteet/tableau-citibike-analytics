@@ -30,7 +30,6 @@ Phenomena and observations:
 
 - These findings are expected as they seem to align with commuting for work.
 
-####The Tableau dashboard is available here: 
-
-####https://public.tableau.com/views/CitiBikeMarch2020_MP/CitiBikeJCMarch-20Story?:language=en&:display_count=y&publish=yes&:origin=viz_share_link 
+The Tableau dashboard is available here: 
+https://public.tableau.com/views/CitiBikeMarch2020_MP/CitiBikeJCMarch-20Story?:language=en&:display_count=y&publish=yes&:origin=viz_share_link 
 
